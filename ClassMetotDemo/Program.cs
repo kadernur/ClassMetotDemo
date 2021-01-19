@@ -63,7 +63,7 @@ namespace ClassMetotDemo
 
             foreach (var v in musteriler)
             {
-                musteriManager.Sil(v);
+                
                 musteriManager.MusteriGuncelle(v);
 
             }
